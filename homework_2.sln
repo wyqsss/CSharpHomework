@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "program3", "program1\program3.csproj", "{420EE679-26FA-4A81-BE62-DFEEC722DA81}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "program1", "program1\program1.csproj", "{420EE679-26FA-4A81-BE62-DFEEC722DA81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "program4", "program2\program4.csproj", "{57564302-85E5-48E6-A415-90CC61836934}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "program2", "program2\program2.csproj", "{57564302-85E5-48E6-A415-90CC61836934}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "program5", "program3\program5.csproj", "{55756ECE-A3BE-4A33-893F-F4E0955A721A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "program3", "program3\program3.csproj", "{55756ECE-A3BE-4A33-893F-F4E0955A721A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
